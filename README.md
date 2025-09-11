@@ -1,4 +1,9 @@
-# vsce-task-tree
-Public files of the Visual Studio Code extension Task Tree
+# Task Tree extension for Visual Studio Code
 
-Visit the extension page in the Visual Studio Code marketplace to find more information: https://marketplace.visualstudio.com/items?itemName=andres-munoz.tasktree
+This repository only contains the public files of the Task Tree extension for Visual Studio Code.
+
+More information about the extension can be found in the extension description. It can be found in the following places:
+
+- Inside Visual Studio Code in the Extensions views container by searching for Task Tree.
+- At the Visual Studio Code marketplace: https://marketplace.visualstudio.com/items?itemName=andres-munoz.tasktree
+- At the Open VSX Registry: https://open-vsx.org/extension/andres-munoz/tasktree
